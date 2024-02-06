@@ -1,0 +1,7 @@
+JMH S 32 com.mycompany.mavenproject1.Sort S 68 com.mycompany.mavenproject1.jmh_generated.Sort_insertionSort_jmhTest S 13 insertionSort S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 80 com.mycompany.mavenproject1.jmh_generated.Sort_insertionSortAlmostSorted_jmhTest S 25 insertionSortAlmostSorted S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 64 com.mycompany.mavenproject1.jmh_generated.Sort_mergeSort_jmhTest S 9 mergeSort S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 64 com.mycompany.mavenproject1.jmh_generated.Sort_quickSort_jmhTest S 9 quickSort S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 76 com.mycompany.mavenproject1.jmh_generated.Sort_quickSortAlmostSorted_jmhTest S 21 quickSortAlmostSorted S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 68 com.mycompany.mavenproject1.jmh_generated.Sort_selectionSort_jmhTest S 13 selectionSort S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 32 com.mycompany.mavenproject1.Sort S 80 com.mycompany.mavenproject1.jmh_generated.Sort_selectionSortAlmostSorted_jmhTest S 25 selectionSortAlmostSorted S 14 SingleShotTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 

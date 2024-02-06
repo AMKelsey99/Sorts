@@ -1,0 +1,12 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/mycompany/mavenproject1/Sort.insertionSort
+inline,com/mycompany/mavenproject1/Sort.insertionSortAlmostSorted
+inline,com/mycompany/mavenproject1/Sort.mergeSort
+inline,com/mycompany/mavenproject1/Sort.quickSort
+inline,com/mycompany/mavenproject1/Sort.quickSortAlmostSorted
+inline,com/mycompany/mavenproject1/Sort.selectionSort
+inline,com/mycompany/mavenproject1/Sort.selectionSortAlmostSorted
